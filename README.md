@@ -35,4 +35,4 @@ This analysis examined customer churn patterns for a telecommunications company 
 
 Below is the overview page from the Power BI dashboard and more examples are included throughout the report. The entire interactive dashboard can be downloaded [here.](https://github.com/Immanuel-19/Telco-Churn-Analysis-Week-1-Analystlab-Africa/raw/refs/heads/main/dashboard/Customer%20Churn%20Report.pbix)
 
-![Dashboard Overview](dashboard/dashboard_preview)
+![Dashboard Overview](dashboard/dashboard_preview.png)
