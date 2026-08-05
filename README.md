@@ -40,7 +40,7 @@ Below is the overview page from the Power BI dashboard and more examples are inc
 
 
 
-### Churn Distribution:
+### Churn Rate Distribution:
 
 * **The company retains the majority of its customers (73.5%)**, while **26.5%** have **churned**, indicating a relatively healthy overall retention rate.
   
@@ -63,3 +63,20 @@ Below is the overview page from the Power BI dashboard and more examples are inc
 * The results highlight contract duration as one of the strongest predictors of churn, emphasizing the value of encouraging customers to transition from month-to-month to longer-term plans.
 
 ![Contract Type Analysis](dashboard/churn_rate_by_contract.png)
+
+
+
+### Tenure Analysis:
+
+* **Customers with less than one year of tenure have the highest churn rate (47.4%)**, indicating that the first year is the most critical period for customer retention.
+  
+* **Churn declines steadily as customer tenure increases**, falling to **28.7%** for customers with 13–24 months and **20.4%** for those with 25–48 month.
+  
+* **Long-tenured customers (49–72 months) exhibit the lowest churn rate (9.5%)**, demonstrating stronger customer loyalty over time.
+  
+* The findings suggest that **improving the early customer experience and engagement** could significantly reduce overall churn and increase long-term customer retention.
+
+![Contract Type Analysis](dashboard/churn_rate_by_tenure.png)
+
+
+
