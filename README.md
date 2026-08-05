@@ -80,3 +80,15 @@ Below is the overview page from the Power BI dashboard and more examples are inc
 
 
 
+### Internet Service Analysis:
+
+* **Customers using fiber optic internet experience the highest churn rate (41.9%)**, making them the most at-risk service segment.
+  
+* **DSL customers churn at a significantly lower rate (19.0%)**, indicating stronger customer retention compared to fiber optic users.
+  
+* Customers **without an internet service have the lowest churn rate (7.4%)**, suggesting they are less likely to discontinue their subscriptions.
+  
+* **The results indicate that the fiber optic customer experience should be investigated**, as service quality, pricing, or customer expectations may be contributing to the elevated churn rate.
+
+![Contract Type Analysis](dashboard/churn_rate_by_internet_service.png)
+
