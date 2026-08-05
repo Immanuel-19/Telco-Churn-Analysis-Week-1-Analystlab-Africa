@@ -32,7 +32,7 @@ Prior to beginning the analysis, initial data inspection identified missing valu
 
 ### Overview of Findings
 
-This analysis examined customer churn patterns for a telecommunications company to identify the primary drivers of customer attrition and uncover opportunities to improve customer retention. The findings reveal that 26.5% of customers have churned, resulting in an estimated monthly revenue loss of $139.1K. Churn is most prevalent among customers on month-to-month contracts, particularly those using fiber optic internet services and electronic check payment methods. In contrast, customers on longer-term contracts exhibit significantly lower churn rates, highlighting the importance of customer commitment in retention.
+This analysis examined customer churn patterns for a telecommunications company to **identify the primary drivers of customer attrition and uncover opportunities to improve customer retention**. The findings reveal that **26.5%** of customers have churned, resulting in an estimated monthly revenue loss of **$139.1K**. Churn is most prevalent among customers on month-to-month contracts, **particularly those using fiber optic internet services and electronic check payment methods**. In contrast, customers on longer-term contracts exhibit significantly lower churn rates, highlighting the importance of customer commitment in retention.
 
 Below is the overview page from the Power BI dashboard and more examples are included throughout the report. The entire interactive dashboard can be downloaded [here.](https://github.com/Immanuel-19/Telco-Churn-Analysis-Week-1-Analystlab-Africa/raw/refs/heads/main/dashboard/Customer%20Churn%20Report.pbix)
 
