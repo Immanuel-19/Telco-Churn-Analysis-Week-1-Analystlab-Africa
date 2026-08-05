@@ -12,11 +12,11 @@ Insights and recommendations are provided on the following key areas:
 - **Service and Payment Analysis:** Evaluation of how internet service types, contract plans, and payment methods influence customer retention.
 - **Business Risks and Opportunities:** Identification of customer retention risks and opportunities to improve loyalty, reduce churn, and enhance long-term profitability.
 
-
-
 A interactive PowerBI dashboard can be downloaded [here.](https://github.com/Immanuel-19/Telco-Churn-Analysis-Week-1-Analystlab-Africa/raw/refs/heads/main/dashboard/Customer%20Churn%20Report.pbix)
 
 The Python Jupyter Notebook used for preprocessing and analysis can be found [here.](https://github.com/Immanuel-19/Telco-Churn-Analysis-Week-1-Analystlab-Africa/blob/main/notebook/telco_churn_analysis.ipynb)
+
+
 
 # Data Structure & Initial Checks
 
@@ -25,6 +25,7 @@ The customer churn dataset consists of 7,043 customer records and 21 variables, 
 ![Dataset Overview](dashboard/dataset_overview.png)
 
 Prior to beginning the analysis, initial data inspection identified missing values in the `TotalCharges` column, which were handled during the data cleaning process to ensure the dataset was suitable for analysis.
+
 
 
 # Executive Summary
@@ -36,3 +37,17 @@ This analysis examined customer churn patterns for a telecommunications company 
 Below is the overview page from the Power BI dashboard and more examples are included throughout the report. The entire interactive dashboard can be downloaded [here.](https://github.com/Immanuel-19/Telco-Churn-Analysis-Week-1-Analystlab-Africa/raw/refs/heads/main/dashboard/Customer%20Churn%20Report.pbix)
 
 ![Dashboard Overview](dashboard/dashboard_preview.png)
+
+
+
+### Contract Type Analysis:
+
+* **Month-to-month customers** exhibit the highest churn rate **(42.7%)**, making them the most at-risk customer segment.
+  
+* Customers on **one-year contracts** churn at a much lower rate **(11.3%)**, suggesting that longer commitments improve customer retention.
+  
+* **Two-year contracts** have the lowest churn rate **(2.8%)**, indicating that long-term contracts are highly effective in reducing customer attrition.
+  
+* The results highlight contract duration as one of the strongest predictors of churn, emphasizing the value of encouraging customers to transition from month-to-month to longer-term plans.
+
+![Contract Type Analysis](dashboard/churn_rate_by_contract.png)
