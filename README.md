@@ -40,9 +40,21 @@ Below is the overview page from the Power BI dashboard and more examples are inc
 
 
 
+### Churn Distribution:
+
+* **The company retains the majority of its customers (73.5%)**, while **26.5%** have **churned**, indicating a relatively healthy overall retention rate.
+  
+* Despite strong retention, **roughly more than one in four customers have churned**, representing a substantial loss of customers and recurring revenue.
+  
+* **The churn rate highlights a significant opportunity to improve customer loyalty** through targeted retention strategies for high-risk customer segments.
+
+![Churn Distribution](dashboard/churn_rate_distr.png)
+
+
+
 ### Contract Type Analysis:
 
-* **Month-to-month customers** exhibit the highest churn rate **(42.7%)**, making them the most at-risk customer segment.
+* **Month-to-month customers exhibit the highest churn rate (42.7%)**, making them the most at-risk customer segment.
   
 * Customers on **one-year contracts** churn at a much lower rate **(11.3%)**, suggesting that longer commitments improve customer retention.
   
