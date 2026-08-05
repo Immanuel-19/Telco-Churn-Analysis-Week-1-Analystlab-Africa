@@ -98,12 +98,12 @@ Below is the overview page from the Power BI dashboard and more examples are inc
 
 Based on the uncovered insights, the following recommendations have been provided: 
 
-* **Focus on converting month-to-month customers to longer-term contracts** by offering discounts, loyalty rewards, or bundled packages to reduce churn among month-to-month subscribers. **Even a modest conversion rate can significantly lower overall churn and protect revenue**, since these customers are among the most at risk and often the easiest to retain with the right offer
+* **Focus on converting month-to-month customers to longer-term contracts** by offering discounts, loyalty rewards, or bundled packages to reduce churn among month-to-month subscribers. **Even a modest conversion rate can significantly lower overall churn and protect revenue**, since these customers are among the most at risk and often the easiest to retain with the right offer.
   
-* **Improve Fiber Optic value and reliability** by resolving service quality issues and introducing competitively priced tiers or loyalty bundles to close the retention gap with DSL customers.**
+* **Improve Fiber Optic value and reliability** by resolving service quality issues and introducing competitively priced tiers or loyalty bundles to close the retention gap with DSL customers.
   
-* **Invest heavily in the first few months of a customer’s journey by making onboarding more personal and anticipatory** through schedule check-ins, offering timely help, and presenting relevant upgrades or loyalty incentives early on
+* **Invest heavily in the first few months of a customer’s journey by making onboarding more personal and anticipatory** through schedule check-ins, offering timely help, and presenting relevant upgrades or loyalty incentives early on.
   
 * **Increase adoption of value-added services, such as Tech Support and Online Security**, through bundled plans and promotional campaigns to improve customer satisfaction and retention.
   
-* **Build a churn-risk scoring system for early intervention by combining tenure, contract type, and payment method into a risk score** that flags customers before cancellation intent forms, triggering proactive outreach 
+* **Build a churn-risk scoring system for early intervention by combining tenure, contract type, and payment method into a risk score** that flags customers before cancellation intent forms, triggering proactive outreach.
